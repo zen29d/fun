@@ -1,2 +1,2 @@
 # fun
-![chris](/chris.py.gif)
+![chris](/christ.py.gif)
